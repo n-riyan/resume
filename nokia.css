@@ -1,0 +1,7 @@
+body{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.languages, .interests{
+    max-width: 180px;
+}
